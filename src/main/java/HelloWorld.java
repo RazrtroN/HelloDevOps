@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static String sayHello() {
-        return "Good Morning";
+        return "Hello Everyone";
     }
 
     public static void main(String[] args) {
